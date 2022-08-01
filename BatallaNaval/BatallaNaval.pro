@@ -11,6 +11,7 @@ SOURCES += \
         main.cpp \
         mapa.cpp \
         matriz.cpp \
+        menu.cpp \
         portaaviones.cpp \
         submarino.cpp
 
@@ -21,5 +22,6 @@ HEADERS += \
     lancha.h \
     mapa.h \
     matriz.h \
+    menu.h \
     portaaviones.h \
     submarino.h

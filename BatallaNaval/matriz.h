@@ -9,6 +9,7 @@ private:
     char **matriz;
     int tamanioMatriz = 10;
     std::vector <Barco> cantBarcos;
+//    std::list <Barco> totalBarcos;
 
 public:
     Matriz();
